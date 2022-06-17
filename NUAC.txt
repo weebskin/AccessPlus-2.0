@@ -1,0 +1,6 @@
+$Description "Dead"
+$Title "what"
+$PreviewFile "C:\Users\Admin\Pictures\preview4.png"
+$Tags "Mutator"
+$MicroTxItem "false"
+$PackageDirectory "C:\Users\Admin\Documents\My Games\KillingFloor2\NUAC"
